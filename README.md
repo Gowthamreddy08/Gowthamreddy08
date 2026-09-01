@@ -1,13 +1,11 @@
 <!-- HEADER BANNER ANIMATION -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,30&height=220&section=header&text=Gowtham%20Reddy%20Venuthurla&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Artificial%20Intelligence%20%7C%20Machine%20Learning%20%7C%20Software%20Engineer&descAlignY=58&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Gowtham%20Reddy%20Venuthurla&fontSize=40&fontColor=ffffff&desc=AI%20and%20ML%20Engineer%20•%20Python%20Developer%20•%20Software%20Engineer&descAlignY=62&descAlign=50" width="100%" />
 </div>
 
-<!-- DYNAMIC TYPING SVG ANIMATION -->
+<!-- DYNAMIC TYPING ANIMATION (Fixed & Guaranteed Working) -->
 <div align="center">
-  <a href="https://gowthamreddyportfolio.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=AI+%26+Machine+Learning+Developer;Python+%26+Computer+Vision+Engineer;Flask+%26+PostgreSQL+Backend+Builder;Passionate+Problem+Solver+%26+Agile+Practitioner" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=AI+and+Machine+Learning+Developer;Python+Developer+and+Backend+Builder;Aspiring+Software+Engineer;Open+for+Internship+and+Fresher+Roles" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -43,7 +41,8 @@
 
 - 🎓 **Education:** B.Tech in Computer Science and Engineering — **Rajeev Gandhi Memorial College of Engineering and Technology** *(2023 – 2027)* | **CGPA: 8.12**
 - 🏢 **Experience:** Completed 2 Software Development Internships (**Bluestock Fintech** & **Cognifyz Technologies**)
-- 🔭 **Current Focus:** Computer Vision, Predictive Machine Learning Models, Backend APIs, and Cloud Deployment.
+- 🔭 **Current Focus:** Artificial Intelligence (AI), Machine Learning (ML), Python Development, and Software Engineering.
+- 💼 **Open to Work:** Actively seeking **Internship & Fresher / Entry-Level Roles** as an **AI/ML Engineer**, **Python Developer**, or **Software Engineer**.
 
 ---
 
@@ -73,8 +72,8 @@
       <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
       <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
       <img src="https://img.shields.io/badge/Classification_%26_Regression-4B8BBE?style=flat-square" />
-      <img src="https://img.shields.io/badge/Model_Evaluation-informational?style=flat-square" />
       <img src="https://img.shields.io/badge/Feature_Engineering-blueviolet?style=flat-square" />
+      <img src="https://img.shields.io/badge/Model_Evaluation-blue?style=flat-square" />
     </td>
   </tr>
   <tr>
@@ -167,7 +166,7 @@
 
 <!-- FOOTER ANIMATION -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,30&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </div>
 
 <div align="center">
