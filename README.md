@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Gowtham%20Reddy%20Venuthurla&fontSize=40&fontColor=ffffff&desc=AI%20and%20ML%20Engineer%20•%20Python%20Developer%20•%20Software%20Engineer&descAlignY=62&descAlign=50" width="100%" />
 </div>
 
-<!-- DYNAMIC TYPING ANIMATION (Fixed & Guaranteed Working) -->
+<!-- DYNAMIC TYPING ANIMATION -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=AI+and+Machine+Learning+Developer;Python+Developer+and+Backend+Builder;Aspiring+Software+Engineer;Open+for+Internship+and+Fresher+Roles" alt="Typing SVG" />
 </div>
@@ -35,9 +35,9 @@
 
 ---
 
-## 🎯 About & Career Objective
+## 🎯 Professional Summary
 
-> Final-year Computer Science and Engineering student passionate about software engineering, artificial intelligence, and machine learning. Experienced in developing practical applications and solving real-world problems through academic and internship projects. Seeking an opportunity to apply my knowledge, strengthen my technical skills, and contribute to a professional engineering team.
+> Computer Science student specializing in **Artificial Intelligence, Computer Vision, and Python Backend Engineering**. Hands-on experience developing deep learning architectures, biometric recognition pipelines, and RESTful APIs using **PyTorch, OpenCV, Flask, FastAPI, and PostgreSQL**. Passionate about transforming machine learning models into reliable, production-ready applications and deploying them to cloud environments.
 
 - 🎓 **Education:** B.Tech in Computer Science and Engineering — **Rajeev Gandhi Memorial College of Engineering and Technology** *(2023 – 2027)* | **CGPA: 8.12**
 - 🏢 **Experience:** Completed 2 Software Development Internships (**Bluestock Fintech** & **Cognifyz Technologies**)
@@ -49,60 +49,62 @@
 ## 🛠️ Technical Skills
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,postgres,mysql,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,flask,postgres,docker,linux,git,github,vscode&theme=dark" />
 </div>
 
 <br/>
 
 <table>
   <tr>
-    <td width="24%" valign="top"><b>💻 Programming & Core</b></td>
+    <td width="25%" valign="top"><b>💻 Programming & Core</b></td>
     <td>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/OOP-00599C?style=flat-square" />
+      <img src="https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
       <img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-FFA116?style=flat-square" />
-      <img src="https://img.shields.io/badge/Problem_Solving-4CAF50?style=flat-square" />
+      <img src="https://img.shields.io/badge/OOP-00599C?style=flat-square" />
     </td>
   </tr>
   <tr>
-    <td width="24%" valign="top"><b>🤖 Machine Learning & AI</b></td>
+    <td width="25%" valign="top"><b>🤖 Machine & Deep Learning</b></td>
     <td>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
       <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-      <img src="https://img.shields.io/badge/Classification_%26_Regression-4B8BBE?style=flat-square" />
-      <img src="https://img.shields.io/badge/Feature_Engineering-blueviolet?style=flat-square" />
+      <img src="https://img.shields.io/badge/CNNs-4B8BBE?style=flat-square" />
+      <img src="https://img.shields.io/badge/Transfer_Learning-informational?style=flat-square" />
+      <img src="https://img.shields.io/badge/Grad--CAM%2B%2B-8E44AD?style=flat-square" />
       <img src="https://img.shields.io/badge/Model_Evaluation-blue?style=flat-square" />
     </td>
   </tr>
   <tr>
-    <td width="24%" valign="top"><b>🧠 AI & Prompt Engineering</b></td>
+    <td width="25%" valign="top"><b>👁️ Computer Vision & Data</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Prompt_Engineering-8E44AD?style=flat-square" />
-      <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white" />
-      <img src="https://img.shields.io/badge/Claude-D97706?style=flat-square&logo=anthropic&logoColor=white" />
-      <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" />
-      <img src="https://img.shields.io/badge/AI--Assisted_Development-00A67E?style=flat-square" />
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+      <img src="https://img.shields.io/badge/dlib-00599C?style=flat-square" />
+      <img src="https://img.shields.io/badge/Facial_Recognition-00A67E?style=flat-square" />
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/Pillow-8E44AD?style=flat-square" />
     </td>
   </tr>
   <tr>
-    <td width="24%" valign="top"><b>🗄️ Backend & Databases</b></td>
+    <td width="25%" valign="top"><b>🌐 Backend & APIs</b></td>
     <td>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
       <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+      <img src="https://img.shields.io/badge/RESTful_APIs-0052CC?style=flat-square" />
+      <img src="https://img.shields.io/badge/Gunicorn-499848?style=flat-square&logo=gunicorn&logoColor=white" />
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <td width="24%" valign="top"><b>⚙️ Tools & Deployment</b></td>
+    <td width="25%" valign="top"><b>☁️ Database & Deployment</b></td>
     <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-      <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-      <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" />
-      <img src="https://img.shields.io/badge/GitHub_CI-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -111,23 +113,23 @@
 
 ## 🏗️ Flagship Projects & Engineering Highlights
 
-### 1. 🧑‍💻 [AI-Based Face Recognition Attendance System](https://github.com/Gowthamreddy08)
-> **Stack:** `Flask` • `OpenCV` • `PostgreSQL` • `Railway` • `GitHub CI`
+### 1. 🫁 [MedXAI: Multi-Disease Chest X-Ray Detection System](https://github.com/Gowthamreddy08/MedXAI-Chest-Xray-Detection)
+> **Stack:** `PyTorch` • `Streamlit` • `FastAPI` • `Grad-CAM++` • `Docker` &nbsp;|&nbsp; [🌐 Live App](https://medxai-cxr.streamlit.app/)
 
-* **Real-time Computer Vision:** Developed a browser-based automated face recognition system using OpenCV for real-time video stream processing.
-* **Integrity & Security:** Integrated automated attendance marking with anti-duplication prevention logic to eliminate redundant check-ins.
-* **Admin Portal:** Built a secure administrative dashboard for student registration, live attendance monitoring, and automated report generation.
-* **Cloud Deployment:** Deployed on **Railway** with PostgreSQL database integration, secure environment variable configurations, and automated GitHub CI workflow.
+* **Multi-Label Deep Learning:** Developed an end-to-end multi-label deep learning classification pipeline to detect **14 distinct chest pathologies** simultaneously from radiograph images.
+* **Explainable AI (Grad-CAM++):** Integrated visual attention heatmaps providing transparent anatomical localization of diseased lung regions for radiologists.
+* **Uncertainty & Calibration:** Implemented temperature scaling calibration and Monte Carlo Dropout to quantify model uncertainty and ensure diagnostic reliability.
+* **Clinical Reporting Dashboard:** Built and deployed an interactive Streamlit and FastAPI dashboard featuring automated clinical PDF report generation for medical practitioners.
 
 ---
 
-### 2. 🌊 [Flood Prediction Using Machine Learning](https://github.com/Gowthamreddy08)
-> **Stack:** `Python` • `Scikit-learn` • `Pandas` • `NumPy` • `Flask`
+### 2. 🧑‍💻 [AI-Based Face Recognition Attendance System](https://github.com/Gowthamreddy08)
+> **Stack:** `Flask` • `OpenCV` • `dlib` • `Cloud PostgreSQL (Neon)` • `Docker` • `Gunicorn`
 
-* **High-Accuracy ML Model:** Trained classification models on historical rainfall and meteorological datasets, achieving **89% prediction accuracy**.
-* **Feature Engineering:** Implemented end-to-end data preprocessing, outlier detection, scaling, and feature selection to optimize performance.
-* **Real-time Inference Web App:** Developed and deployed an interactive Flask web application allowing users to input real-time environmental indicators for instant flood risk assessment.
-* **Model Validation:** Evaluated classification metrics (precision, recall, F1-score, ROC-AUC) to guarantee robust and reliable predictions.
+* **High-Performance Biometrics:** Architected a full-stack, browser-based biometric attendance system utilizing Flask, OpenCV, dlib, and Cloud PostgreSQL (Neon).
+* **Real-time Recognition:** Engineered real-time facial recognition matching **128-dimensional biometric embeddings** with sub-second inference and duplicate attendance prevention.
+* **Scalable Database Architecture:** Designed a normalized relational database schema with connection pooling to manage student rosters, timestamps, and multi-tenant admin dashboards.
+* **Containerized Deployment:** Containerized the application using **Docker & Gunicorn**, optimizing memory overhead and deploying to cloud infrastructure with automated 24/7 uptime monitoring.
 
 ---
 
@@ -135,24 +137,25 @@
 
 #### 🔹 Software Development Engineer Intern — **Bluestock Fintech**
 *May 2025 – Jun 2025*
-- Contributed to the development, testing, and optimization of core features for a fintech web application.
-- Collaborated with engineering teams to design, debug, and maintain modular software components.
-- Adhered to software engineering best practices to write clean, efficient, and reusable code.
-- Gained hands-on experience with the complete **Software Development Life Cycle (SDLC)** in an Agile environment.
+- Contributed to the development, testing, and debugging of core modules for a scalable fintech web application.
+- Designed and integrated responsive UI components with backend REST APIs, improving user data navigation and page load efficiency.
+- Implemented unit tests and followed clean-code best practices (**PEP8 / SOLID**) to ensure code reliability and modularity.
+- Actively collaborated in an **Agile/Scrum** environment, participating in daily standups, code reviews, and sprint retrospectives.
 
 #### 🔹 Python Development Intern — **Cognifyz Technologies**
 *Feb 2025 – Mar 2025*
-- Developed automated Python scripts for workflow automation and data processing tasks.
-- Applied Object-Oriented Programming (OOP) design principles and structured debugging methods.
-- Collaborated with remote development teams utilizing **Git** and **VS Code** for distributed version control.
+- Engineered robust Python automation scripts and data processing pipelines, reducing manual task execution time.
+- Applied Object-Oriented Programming (OOP) concepts and advanced exception handling to refactor and optimize existing software modules.
+- Conducted bug fixes and unit testing to ensure high reliability across varied deployment environments.
+- Utilized Git for version control, feature branching, merge requests, and collaborative remote development.
 
 ---
 
 ## 🏆 Key Achievements & Milestones
 
-- 🌟 **2 Software Development Internships** successfully completed in fintech & automation.
-- 🚀 **2 Production AI/ML Applications** engineered, trained, and deployed live to cloud infrastructure.
-- 🧠 **Strong Foundation** in Artificial Intelligence, Machine Learning pipelines, and scalable software architecture.
+- ⚡ **Hackathon Participant:** Participated in college-level hackathons, collaborating in a team to design and develop practical software prototypes under rapid deadlines.
+- 🚀 **End-to-End AI Deployments:** Successfully engineered, containerized, and deployed two functional AI-powered web applications with live public cloud access.
+- 🌟 **Dual Internship Selection:** Selected for and completed two competitive software development internships (**Bluestock Fintech** & **Cognifyz Technologies**) during undergraduate studies.
 
 ---
 
